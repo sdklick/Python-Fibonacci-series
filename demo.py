@@ -1,6 +1,3 @@
-
-
-from functools import reduce
 #python fibonacci series print program
 
 userinput = int(input("how much fibonacci series : "))
